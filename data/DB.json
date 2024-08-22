@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "my First Post",
+      "datetime": "july 01, 2021 11:17:36 AM",
+      "body": " made a video about tesla 01 results"
+    },
+    {
+      "id": "2",
+      "title": "my 2 Post",
+      "datetime": "july 01, 2021 11:17:36 AM",
+      "body": " use a video about tesla 01 results"
+    },
+    {
+      "id": "3",
+      "title": "my 3post",
+      "datetime": "july 01, 2021 11:17:36 AM",
+      "body": " make a video about tesla 01 results"
+    }
+  ]
+}
